@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>homeworkInternetServer</artifactId>
+    <artifactId>InternetServer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
