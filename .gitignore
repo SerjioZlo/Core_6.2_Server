@@ -1,0 +1,6 @@
+/.idea
+/out
+*.iml
+/target
+/src/test/
+/src/main/resources/
